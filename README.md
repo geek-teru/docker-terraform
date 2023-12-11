@@ -1,8 +1,12 @@
 ### 概要
 - Terraform実行用Dockerコンテナ
+- Amazon Linux release 2023
 - Terraform1.5系の最新versionをインストール
 
 ### インストール用URL
+* Amazonlinux
+https://hub.docker.com/_/amazonlinux/
+
 * Terraform
 https://developer.hashicorp.com/terraform/install
 
